@@ -28,7 +28,7 @@ Here the dataset is about the employees and their information in detail like gen
 
 Qualitative data is categorical variables of Nominal, ordinal types
 
-Gender - talks of the gender - {Male or female} --Qualitative Variable (Nominal)
+ Gender - talks of the gender - {Male or female} --Qualitative Variable (Nominal)
 
 Business - if the person has a business {yes or no} --Qualitative Variable (Nominal)
 
