@@ -26,7 +26,7 @@ Here the dataset is about the employees and their information in detail like gen
 
 ## Features:
 
-*Qualitative data is categorical variables of Nominal, ordinal types*
+**Qualitative data is categorical variables of Nominal, ordinal types**
 
 
 **Gender** - talks of the gender - {Male or female} --Qualitative Variable (Nominal)
@@ -47,7 +47,7 @@ Here the dataset is about the employees and their information in detail like gen
 
 
 
-*Quantitative data is the numerical variables of discrete and continous*
+**Quantitative data is the numerical variables of discrete and continous**
 
 
 
