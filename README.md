@@ -28,6 +28,7 @@ Here the dataset is about the employees and their information in detail like gen
 
 *Qualitative data is categorical variables of Nominal, ordinal types*
 
+
 **Gender** - talks of the gender - {Male or female} --Qualitative Variable (Nominal)
 
 **Business** - if the person has a business {yes or no} --Qualitative Variable (Nominal)
@@ -45,7 +46,9 @@ Here the dataset is about the employees and their information in detail like gen
 **Rating** - If he has been given a rating by a superior {yes or no} --Qualitative Variable (Nominal)
 
 
+
 *Quantitative data is the numerical variables of discrete and continous*
+
 
 
 **Age** - age of the person --Quantitative Variable (Discrete)
@@ -71,6 +74,7 @@ Here the dataset is about the employees and their information in detail like gen
 **Low** - lowest balance allotted to a person. --Quantitative Variable (Continuous)
 
 **Closing Balance**- The closing balance of an employee --Quantitative Variable (Continuous)
+
 
 
 Opening balance refers to the amount of money a business has at the beginning of a specific accounting period or time period.
